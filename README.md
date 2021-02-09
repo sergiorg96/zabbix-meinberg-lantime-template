@@ -1,0 +1,1 @@
+# zabbix-meinberg-lantime-template
